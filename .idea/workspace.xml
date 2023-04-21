@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3073491c-b6c6-40f6-b66e-1a525ee51d34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NjQyRESJKisXlJKfOIOnkO6DfP" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/ECNU/coding" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.ForDemo02">
+    <configuration name="Demo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.scanner.Demo02" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.scanner.Demo03" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.scanner.Demo04" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.scanner.ForDemo01" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.whl.scanner.ForDemo02" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.whl.scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForDemo02" />
+        <item itemvalue="Application.ForDemo01" />
+        <item itemvalue="Application.Demo04 (1)" />
+        <item itemvalue="Application.Demo03 (1)" />
+        <item itemvalue="Application.Demo02 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3073491c-b6c6-40f6-b66e-1a525ee51d34" name="Default Changelist" comment="" />
+      <created>1680175265860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680175265860</updated>
+      <workItem from="1680175269321" duration="1387000" />
+      <workItem from="1680229178851" duration="6588000" />
+      <workItem from="1680783680038" duration="1104000" />
+      <workItem from="1681023131133" duration="1817000" />
+      <workItem from="1681283946574" duration="1200000" />
+      <workItem from="1681897151279" duration="1519000" />
+      <workItem from="1681960503907" duration="12107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="89" key="#Project_Structure" timestamp="1680175278622">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="89" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1680175278622" />
+    <state x="501" y="185" key="FileChooserDialogImpl" timestamp="1681283955107">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1681283955107" />
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom" timestamp="1682076172908">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1682076172908" />
+    <state width="1398" height="144" key="GridCell.Tab.0.center" timestamp="1682076172908">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1682076172908" />
+    <state width="1398" height="144" key="GridCell.Tab.0.left" timestamp="1682076172908">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1682076172908" />
+    <state width="1398" height="144" key="GridCell.Tab.0.right" timestamp="1682076172908">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1682076172908" />
+    <state x="222" y="72" key="SettingsEditor" timestamp="1681989590878">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1681989590878" />
+    <state x="404" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1681960505323">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="404" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1681960505323" />
+    <state x="86" y="40" key="new project wizard" timestamp="1680175313992">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="86" y="40" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1680175313992" />
+  </component>
+</project>
