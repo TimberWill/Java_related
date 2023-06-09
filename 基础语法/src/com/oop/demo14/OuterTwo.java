@@ -6,4 +6,15 @@ package com.oop.demo14;
  * 描述：
  */
 public class OuterTwo {
+    public static void main(String[] args) {
+        CustomerService customerService = new CustomerService() {
+            @Override
+            public void hello() {
+
+            }
+        };
+    }
+}
+interface CustomerService{
+    void hello();
 }
