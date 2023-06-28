@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3073491c-b6c6-40f6-b66e-1a525ee51d34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/InterviewTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/InterviewTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/object/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/object/Demo03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/string/Demo07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/string/Demo07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo07.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/InterviewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/InterviewTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,33 +70,7 @@
       <recent name="D:\WHL\code\java_se\基础语法\src\com\oop\demo07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo14">
-    <configuration name="Demo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo10" />
-      <module name="基础语法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.systemcla.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo11" />
-      <module name="基础语法" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.systemcla.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.InterviewTest2">
     <configuration name="Demo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo12" />
       <module name="基础语法" />
@@ -145,13 +110,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterviewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.InterviewTest" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.systemcla.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterviewTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.InterviewTest2" />
+      <module name="基础语法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.systemcla.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterviewTest2" />
+        <item itemvalue="Application.InterviewTest" />
         <item itemvalue="Application.Demo14" />
         <item itemvalue="Application.Demo13" />
         <item itemvalue="Application.Demo12" />
-        <item itemvalue="Application.Demo11" />
-        <item itemvalue="Application.Demo10" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +198,7 @@
       <workItem from="1687687086517" duration="4572000" />
       <workItem from="1687757560728" duration="12909000" />
       <workItem from="1687835957791" duration="1989000" />
-      <workItem from="1687917545911" duration="8446000" />
+      <workItem from="1687917545911" duration="10777000" />
     </task>
     <servers />
   </component>
@@ -231,22 +222,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1686123333350" />
-    <state width="1398" height="347" key="GridCell.Tab.0.bottom" timestamp="1687936189915">
+    <state width="1398" height="172" key="GridCell.Tab.0.bottom" timestamp="1687939086288">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="347" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
-    <state width="1398" height="347" key="GridCell.Tab.0.center" timestamp="1687936189914">
+    <state width="1398" height="172" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1687939086288" />
+    <state width="1398" height="172" key="GridCell.Tab.0.center" timestamp="1687939086288">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="347" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1687936189914" />
-    <state width="1398" height="347" key="GridCell.Tab.0.left" timestamp="1687936189914">
+    <state width="1398" height="172" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1687939086288" />
+    <state width="1398" height="172" key="GridCell.Tab.0.left" timestamp="1687939086288">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="347" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1687936189914" />
-    <state width="1398" height="347" key="GridCell.Tab.0.right" timestamp="1687936189915">
+    <state width="1398" height="172" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1687939086288" />
+    <state width="1398" height="172" key="GridCell.Tab.0.right" timestamp="1687939086288">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="347" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state width="1398" height="172" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1687939086288" />
     <state width="1398" height="347" key="GridCell.Tab.1.bottom" timestamp="1687936189915">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
