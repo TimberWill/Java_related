@@ -8,7 +8,7 @@ package com.systemcla.string;
 public class Demo07 {
     public static void main(String[] args) {
         //去除字符串首尾空格
-        String s = new String(" tim   be r   ");
+        String s = new String(" tim   be r  中 ");
         System.out.println(s.trim());
         //字符串的比较方法
         String str1 = "abc";

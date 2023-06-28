@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3073491c-b6c6-40f6-b66e-1a525ee51d34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/InterviewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/object/Demo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/object/Demo03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/string/Demo07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/com/systemcla/string/Demo07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo07.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +64,24 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.systemcla.string" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WHL\code\java_se\基础语法\src\com\oop\demo10" />
       <recent name="D:\WHL\code\java_se\基础语法\src\com\oop\demo09" />
       <recent name="D:\WHL\code\java_se\基础语法\src\com\oop\demo07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo08">
-    <configuration name="Demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo04" />
+  <component name="RunManager" selected="Application.Demo14">
+    <configuration name="Demo10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo10" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo05" />
+    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo11" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo06" />
+    <configuration name="Demo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo12" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo07" />
+    <configuration name="Demo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo13" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo08" />
+    <configuration name="Demo14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.systemcla.string.Demo14" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo08" />
-        <item itemvalue="Application.Demo07" />
-        <item itemvalue="Application.Demo06" />
-        <item itemvalue="Application.Demo05" />
-        <item itemvalue="Application.Demo04" />
+        <item itemvalue="Application.Demo14" />
+        <item itemvalue="Application.Demo13" />
+        <item itemvalue="Application.Demo12" />
+        <item itemvalue="Application.Demo11" />
+        <item itemvalue="Application.Demo10" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +205,9 @@
       <workItem from="1686633229813" duration="8230000" />
       <workItem from="1686709148978" duration="9037000" />
       <workItem from="1687687086517" duration="4572000" />
-      <workItem from="1687757560728" duration="12034000" />
+      <workItem from="1687757560728" duration="12909000" />
+      <workItem from="1687835957791" duration="1989000" />
+      <workItem from="1687917545911" duration="8446000" />
     </task>
     <servers />
   </component>
@@ -217,34 +231,50 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1686123333350" />
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1687776001454">
+    <state width="1398" height="347" key="GridCell.Tab.0.bottom" timestamp="1687936189915">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1687776001454" />
-    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1687776001454">
+    <state width="1398" height="347" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state width="1398" height="347" key="GridCell.Tab.0.center" timestamp="1687936189914">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="243" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1687776001454" />
-    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1687776001454">
+    <state width="1398" height="347" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1687936189914" />
+    <state width="1398" height="347" key="GridCell.Tab.0.left" timestamp="1687936189914">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="243" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1687776001454" />
-    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1687776001454">
+    <state width="1398" height="347" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1687936189914" />
+    <state width="1398" height="347" key="GridCell.Tab.0.right" timestamp="1687936189915">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="243" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1687776001454" />
-    <state x="222" y="11" key="SettingsEditor" timestamp="1686123345071">
+    <state width="1398" height="347" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state width="1398" height="347" key="GridCell.Tab.1.bottom" timestamp="1687936189915">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="222" y="11" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1686123345071" />
+    <state width="1398" height="347" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state width="1398" height="347" key="GridCell.Tab.1.center" timestamp="1687936189915">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state width="1398" height="347" key="GridCell.Tab.1.left" timestamp="1687936189915">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state width="1398" height="347" key="GridCell.Tab.1.right" timestamp="1687936189915">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="347" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1687936189915" />
+    <state x="222" y="11" key="SettingsEditor" timestamp="1687918629350">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="11" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1687918629350" />
     <state x="448" y="177" width="591" height="524" key="StructurePopup" timestamp="1686730174811">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="448" y="177" width="591" height="524" key="StructurePopup/0.0.1440.860@0.0.1440.860" timestamp="1686730174811" />
-    <state x="404" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1687757586844">
+    <state x="404" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1687917568113">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="404" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1687757586844" />
+    <state x="404" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1687917568113" />
     <state x="86" y="40" key="new project wizard" timestamp="1684999527674">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -253,5 +283,21 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="384" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1686222490136" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo07.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/基础语法/src/com/systemcla/string/Demo14.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
