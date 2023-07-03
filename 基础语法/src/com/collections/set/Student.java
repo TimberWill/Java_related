@@ -7,7 +7,7 @@ import java.util.Objects;
  * 日期：2023-06-30 10:57
  * 描述：
  */
-public class Student {
+public class Student implements Comparable<Student> {
     private String name;
     private int age;
 
@@ -55,5 +55,10 @@ public class Student {
     }
 
     public Student() {
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        return this.age - o.age;
     }
 }
