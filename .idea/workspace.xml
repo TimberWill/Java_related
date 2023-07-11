@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3073491c-b6c6-40f6-b66e-1a525ee51d34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/map/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/map/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/map/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/map/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/collections/iterator/Demo07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +75,13 @@
       <recent name="D:\WHL\code\java_se\基础语法\src\com\oop\demo07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo05 (1)">
-    <configuration name="Demo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collections.map.Demo01" />
+  <component name="RunManager" selected="Application.Demo05">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.iterator.Demo01" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collections.map.*" />
+          <option name="PATTERN" value="com.collections.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collections.map.Demo02" />
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.iterator.Demo02" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collections.map.*" />
+          <option name="PATTERN" value="com.collections.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collections.map.Demo03" />
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.iterator.Demo03" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collections.map.*" />
+          <option name="PATTERN" value="com.collections.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collections.map.Demo04" />
+    <configuration name="Demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.iterator.Demo04" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collections.map.*" />
+          <option name="PATTERN" value="com.collections.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collections.map.Demo05" />
+    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collections.iterator.Demo05" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.collections.map.*" />
+          <option name="PATTERN" value="com.collections.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo05 (1)" />
-        <item itemvalue="Application.Demo04 (1)" />
-        <item itemvalue="Application.Demo03 (1)" />
-        <item itemvalue="Application.Demo02 (1)" />
-        <item itemvalue="Application.Demo01 (1)" />
+        <item itemvalue="Application.Demo05" />
+        <item itemvalue="Application.Demo04" />
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +205,7 @@
       <workItem from="1687835957791" duration="1989000" />
       <workItem from="1687917545911" duration="32640000" />
       <workItem from="1688377090203" duration="6454000" />
-      <workItem from="1689057929364" duration="5680000" />
+      <workItem from="1689057929364" duration="13756000" />
     </task>
     <servers />
   </component>
@@ -222,22 +225,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1686123333350" />
-    <state width="1398" height="293" key="GridCell.Tab.0.bottom" timestamp="1689063907991">
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1689073158112">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="293" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1689063907991" />
-    <state width="1398" height="293" key="GridCell.Tab.0.center" timestamp="1689063907991">
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1689073158112" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1689073158112">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="293" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1689063907991" />
-    <state width="1398" height="293" key="GridCell.Tab.0.left" timestamp="1689063907991">
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1689073158112" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1689073158112">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="293" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1689063907991" />
-    <state width="1398" height="293" key="GridCell.Tab.0.right" timestamp="1689063907991">
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1689073158112" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1689073158112">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="293" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1689063907991" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1689073158112" />
     <state width="1398" height="347" key="GridCell.Tab.1.bottom" timestamp="1688264675300">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
