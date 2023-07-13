@@ -23,7 +23,7 @@ public class Demo02 {
 
         while (read != -1){
             outputStream.write(bytes,0,read);
-            read = inputStream.read();
+            read = inputStream.read(bytes);
         }
 
         //6. 关闭流（先开的后关）
