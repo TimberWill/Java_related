@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3073491c-b6c6-40f6-b66e-1a525ee51d34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/StaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/lambda/LambdaDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/lambda/LambdaDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadSleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadSleep2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadYield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/highLevel/TestPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/highLevel/TestPC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/highLevel/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/lock/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/lock/TestLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/summary/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/syn/TestJUC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/syn/UnsafeBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/syn/UnsafeByTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础语法/src/com/thread/syn/UnsafeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadDaemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/基础语法/src/com/thread/state/ThreadDaemon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +82,13 @@
       <recent name="D:\WHL\code\java_se\基础语法\src\com\oop\demo07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadPriority">
-    <configuration name="ThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.state.ThreadJoin" />
+  <component name="RunManager" selected="Application.TestThread">
+    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.lock.TestLock" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thread.state.*" />
+          <option name="PATTERN" value="com.thread.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.state.ThreadPriority" />
+    <configuration name="TestPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.highLevel.TestPC" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thread.state.*" />
+          <option name="PATTERN" value="com.thread.highLevel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSleep2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.state.ThreadSleep2" />
+    <configuration name="TestPC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.highLevel.TestPC2" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thread.state.*" />
+          <option name="PATTERN" value="com.thread.highLevel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.state.ThreadState" />
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.summary.TestThread" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thread.state.*" />
+          <option name="PATTERN" value="com.thread.summary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadYield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.state.ThreadYield" />
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thread.highLevel.ThreadPool" />
       <module name="基础语法" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thread.state.*" />
+          <option name="PATTERN" value="com.thread.highLevel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPriority" />
-        <item itemvalue="Application.ThreadState" />
-        <item itemvalue="Application.ThreadJoin" />
-        <item itemvalue="Application.ThreadYield" />
-        <item itemvalue="Application.ThreadSleep2" />
+        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.TestPC2" />
+        <item itemvalue="Application.TestPC" />
+        <item itemvalue="Application.TestLock" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +222,7 @@
       <workItem from="1691048793030" duration="964000" />
       <workItem from="1691731869172" duration="630000" />
       <workItem from="1694394071730" duration="18922000" />
-      <workItem from="1694480707204" duration="259000" />
+      <workItem from="1694480707204" duration="21717000" />
     </task>
     <servers />
   </component>
@@ -229,10 +230,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1694429947878">
+    <state x="526" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1694509602506">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="526" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1694429947878" />
+    <state x="526" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1694509602506" />
     <state x="477" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1689563790352">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -241,22 +242,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1691731903551" />
-    <state width="1398" height="316" key="GridCell.Tab.0.bottom" timestamp="1694445732887">
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom" timestamp="1694509851641">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1694445732887" />
-    <state width="1398" height="316" key="GridCell.Tab.0.center" timestamp="1694445732887">
+    <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1694509851641" />
+    <state width="1398" height="189" key="GridCell.Tab.0.center" timestamp="1694509851641">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1694445732887" />
-    <state width="1398" height="316" key="GridCell.Tab.0.left" timestamp="1694445732887">
+    <state width="1398" height="189" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1694509851641" />
+    <state width="1398" height="189" key="GridCell.Tab.0.left" timestamp="1694509851641">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1694445732887" />
-    <state width="1398" height="316" key="GridCell.Tab.0.right" timestamp="1694445732887">
+    <state width="1398" height="189" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1694509851641" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right" timestamp="1694509851641">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1694445732887" />
+    <state width="1398" height="189" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1694509851641" />
     <state width="1398" height="347" key="GridCell.Tab.1.bottom" timestamp="1688264675300">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
